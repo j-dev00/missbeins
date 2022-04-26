@@ -5,8 +5,7 @@ Im **Jerry Jones Mondejar** also known as **Jones**, and I'm a **Web Developer**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77F27&width=500&lines=Hi!+I+am+Jerry+Jones+Mondejar.;An+aspiring+Web+Developer+and+Game+developer.)](https://git.io/typing-svg)
 
 ### How to reach me:
-<!-- [![](https://img.shields.io/badge/Gmail-jerryjonesmondejar@gmail.com-red)](mailto:jerryjonesmondejar@gmail.com) [![](https://img.shields.io/badge/Linkedin-Jerry%20Jones%20Mondejar-blue)](https://www.linkedin.com/in/jerry-jones-mondejar-18ab16236/) -->
-<a href="jerryjonesmondejar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="Jerry Jones F. Mondejar#7140"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a><a href="https://www.linkedin.com/in/jerry-jones-mondejar-18ab16236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[![](https://img.shields.io/badge/Gmail-jerryjonesmondejar@gmail.com-red)](mailto:jerryjonesmondejar@gmail.com) [![](https://img.shields.io/badge/Linkedin-Jerry%20Jones%20Mondejar-blue)](https://www.linkedin.com/in/jerry-jones-mondejar-18ab16236/)
 
 -----
 ### Current Status Quo:
