@@ -2,8 +2,7 @@
 
 Im **Jerry Jones Mondejar** also known as **Jones**, and I'm a **Web Developer**. My main objective is to build and design elegant and modern website with bigger prioritization for better user experience.<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77F27&width=500&lines=Hi!+I+am+Jerry+Jones+Mondejar.;An+aspiring+Web+Developer+and+Game+developer.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77F27&width=550&lines=Hi!+I+am+Jerry+Jones+Mondejar.;An+aspiring+Web+Developer+and+Game+developer.)](https://git.io/typing-svg)
 ### How to reach me:
 [![](https://img.shields.io/badge/Gmail-jerryjonesmondejar@gmail.com-red)](mailto:jerryjonesmondejar@gmail.com) [![](https://img.shields.io/badge/Linkedin-Jerry%20Jones%20Mondejar-blue)](https://www.linkedin.com/in/jerry-jones-mondejar-18ab16236/) 
 
