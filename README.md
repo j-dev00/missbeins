@@ -11,7 +11,7 @@ Im **Jerry Jones Mondejar** also known as **Jones**, and I'm a **Web Developer**
 
 - 💼 Intern at MGHS Services as a Web and Software Developer</strong>.
 - 👀 I’m interested in Web design, Game development and Sports.
-- :technologist: I’m currently learning Figma, Javascript and React.
+- :technologist: I’m currently learning Flutter, Figma, Javascript and React.
 - 🔍 I’m looking for connections in <strong>Web Development and Game Development</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Web Development and Game Development</strong>
 <!-- - 👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info -->
